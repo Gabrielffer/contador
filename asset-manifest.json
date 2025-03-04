@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Gabrielffer/contador/static/css/main.a484a08c.css",
+    "main.js": "/Gabrielffer/contador/static/js/main.05add8c5.js",
+    "static/js/488.83c3bc7f.chunk.js": "/Gabrielffer/contador/static/js/488.83c3bc7f.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/Gabrielffer/contador/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Gabrielffer/contador/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/Gabrielffer/contador/index.html",
+    "main.a484a08c.css.map": "/Gabrielffer/contador/static/css/main.a484a08c.css.map",
+    "main.05add8c5.js.map": "/Gabrielffer/contador/static/js/main.05add8c5.js.map",
+    "488.83c3bc7f.chunk.js.map": "/Gabrielffer/contador/static/js/488.83c3bc7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a484a08c.css",
+    "static/js/main.05add8c5.js"
+  ]
+}
