@@ -1,0 +1,159 @@
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button{
+  margin: 0;
+  -webkit-appearance: none;
+}
+
+#div_contadores{
+
+  margin: 30px auto;
+
+  form{
+
+    input{
+    
+      &[type=text]{
+        width: 40%;
+        font-size: 1em;
+        text-align: center;
+        border-top: none;
+        border-width: 4px;
+        border-bottom: none;
+      }
+    
+      &[type=number]{
+        width: 40%;
+        border: none;
+        font-size: 4rem;
+        text-align: center;
+        border-bottom: solid 4px silver;
+      }
+    
+      &[type=text], &[type=number]{
+        margin: 0 auto;
+      }
+  
+    }
+  
+    #div_bts{
+      margin-top: 50px;
+    }
+  
+  }
+
+}
+
+
+#div_config{
+
+  width: 23%;
+  margin: 100px auto;
+
+  button{
+    display: inline;
+  }
+
+  ul{
+    list-style: none;
+  }
+
+}
+
+article{
+
+  width: 40%;
+  margin: auto;
+  padding: 5px;
+
+  h1{
+    font-family: Papyrus;
+  }
+
+  a{
+    font-family: fantasy;
+  }
+
+  a:hover{
+    text-decoration: none;
+  }
+
+  footer{
+    margin-top: 30px;
+  }
+
+}
+
+@media only screen and (min-width: 319px) and (max-width: 426px){
+
+  #div_contadores{
+
+    width: 100% !important;
+
+    .div_contador:last-child{
+      margin-top: 50px;
+    }
+
+    .div_contador:first-child{
+      margin-top: 0;
+    }
+
+    form{
+
+      input{
+
+        &[type=text]{
+          width: 80%;
+        }
+
+        &[type=number]{
+          width: 70%;
+        }
+
+      }
+
+    }
+
+  }
+
+  #div_config{
+
+    width: 80%;
+    
+    #div_config_marcadores{
+      margin-top: 30px;
+    }
+
+  }
+
+  article{
+    width: 90%;
+  }
+
+}
+
+@media only screen and (min-width: 767px) and (max-width: 1025px){
+
+  #div_contadores{
+
+    form{
+
+      input{
+
+        &[type=text]{
+          width: 90%;
+        }
+
+        &[type=number]{
+          width: 80%;
+        }
+
+      }
+
+    }
+
+  }
+
+  #div_config{
+    width: 45%;
+  }
+
+}
