@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/contador/static/css/main.4764f5b5.css",
-    "main.js": "/contador/static/js/main.7a4c5481.js",
+    "main.css": "/contador/static/css/main.78ef89d0.css",
+    "main.js": "/contador/static/js/main.2a2c651f.js",
     "static/js/488.83c3bc7f.chunk.js": "/contador/static/js/488.83c3bc7f.chunk.js",
     "static/media/bootstrap-icons.woff?": "/contador/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/contador/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/contador/index.html",
-    "main.4764f5b5.css.map": "/contador/static/css/main.4764f5b5.css.map",
-    "main.7a4c5481.js.map": "/contador/static/js/main.7a4c5481.js.map",
+    "main.78ef89d0.css.map": "/contador/static/css/main.78ef89d0.css.map",
+    "main.2a2c651f.js.map": "/contador/static/js/main.2a2c651f.js.map",
     "488.83c3bc7f.chunk.js.map": "/contador/static/js/488.83c3bc7f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4764f5b5.css",
-    "static/js/main.7a4c5481.js"
+    "static/css/main.78ef89d0.css",
+    "static/js/main.2a2c651f.js"
   ]
 }
